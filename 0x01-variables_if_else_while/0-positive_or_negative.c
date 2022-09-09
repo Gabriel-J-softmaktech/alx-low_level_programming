@@ -2,11 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /* more headers goes here */
-
 /* betty style doc for function main goes here */
 int main(void)
 {
-
 	int n;
 	
 	srand(time(0));
@@ -17,10 +15,8 @@ int main(void)
 		printf("%i is negative\n", n);
 	else
 		printf("%i is zero\n", n);
-
-	return (0);	
 	
-
+	return (0);	
 }
 
 
