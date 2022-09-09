@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
+* main - main block
 * Description: Print all the numbers of base 16 in lowercase
 * followed by new line.
 * Return: 0
