@@ -7,12 +7,12 @@
 */
 int main(void)
 {
-	char base16 = '0';
+	char d = '0';
 
-	while (base16 <= '9')
+	while (d <= '9')
 	{
-		putchar(base16);
-		base16++;
+		putchar(d);
+		d++;
 	}
 
 
