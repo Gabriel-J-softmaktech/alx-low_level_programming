@@ -3,6 +3,7 @@
 * main - main block
 * Description: print all single digit numbers from 0 to base 10
 * starting from 0, followed by a new line.
+* Return: 0
 */
 int main(void)
 {
