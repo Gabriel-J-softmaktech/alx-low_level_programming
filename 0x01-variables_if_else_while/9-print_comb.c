@@ -3,7 +3,7 @@
 /**
 * main - main block
 * Descript: points all single numbers
-* all numbers must be separated by ',', followed by a new line
+* all numbers must be separated by , then followed by a new line
 * Return: 0
 */
 int main(void)
