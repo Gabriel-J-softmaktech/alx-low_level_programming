@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
 * main - main block
-* Description: Different combinations of three digits. 
+* Description: Different combinations of three digits.
 * Return: 0
 */
 int main(void)
