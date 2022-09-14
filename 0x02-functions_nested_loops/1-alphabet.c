@@ -1,8 +1,8 @@
 #include "main.h"
 /**
 * main - main block
-* Description: Print alphabet in lowercase and a new line
-* Return: 0
+* Description: function print_alphabet in lowercase 
+* with a new line at the end
 */
 void print_alphabet(void)
 {
