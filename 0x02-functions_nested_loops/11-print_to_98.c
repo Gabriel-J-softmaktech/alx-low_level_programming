@@ -11,11 +11,10 @@ void print_to_98(int n)
 
 	while (n != 98)
 	{
-		_putchar('%i, ', n);
 		if (n > 98)
 			n--;
 		else
 			n++;
 	}
-	_putchar('98\n');
+	_putchar('98 \n');
 }
