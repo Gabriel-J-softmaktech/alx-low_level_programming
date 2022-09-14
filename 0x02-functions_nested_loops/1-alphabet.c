@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - main block
+* print_alphabet - Entry block
 *
 * Description: Prints the alphabet with _putchar
 *
