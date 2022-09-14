@@ -4,7 +4,7 @@
 * Description: Print alphabet in lowercase and a new line
 * Return: 0
 */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char c;
 	for (c = 'a'; c <= 'z'; c++)
