@@ -1,8 +1,10 @@
 #include "main.h"
 /**
 * main - main block
-* print_alphabet - function to print alphabets in lowercase
-* with a new line at the end
+*
+* Description: Prints the alphabet with _putchar
+*
+* Return: void
 */
 void print_alphabet(void)
 {
