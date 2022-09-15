@@ -19,8 +19,10 @@ void positive_or_negative(int i)
 		printf("%i is positive\n", i);
 	else if (i < 0)
 		printf("%i is negative\n", i);
+	else if (i == 0)
+		printf("%i is zero\n", i);
 	else
-		printf("%i is negative\n", i);
+		printf("%i no input provided\n", i);
 
 	return (0);
 }
