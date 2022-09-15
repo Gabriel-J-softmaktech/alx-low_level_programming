@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
-* main - main entry point
-* Description: check if an integer is positive or negative
+* main - test function if an integer is positive or negative
 * Return: 0
 */
 
