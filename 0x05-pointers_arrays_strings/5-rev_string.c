@@ -9,7 +9,7 @@
 
 void rev_string(char *s)
 {
-	int i, p, len = _strlen(s);
+	int i, p, len = int_strlen(s);
 
 	for (i = 0; i < len / 2; i++)
 	{
@@ -25,7 +25,7 @@ void rev_string(char *s)
 * Return: string length
 */
 
-int _strlen(char *s)
+int int_strlen(char *s)
 {
 	int len = 0;
 
