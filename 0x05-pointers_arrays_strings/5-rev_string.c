@@ -20,7 +20,7 @@ void rev_string(char *s)
 }
 
 /**
-* _strlen - return the length of a given string
+* int_strlen - return the length of a given string
 * @s: given string
 * Return: string length
 */
@@ -29,7 +29,7 @@ int int_strlen(char *s)
 {
 	int len = 0;
 
-	while(*(s + len) != '\0')
+	while (*(s + len) != '\0')
 		len++;
 
 	return (len);
