@@ -1,3 +1,3 @@
-# Alagwudavid
-## 0x06-pointers_arrays_strings Class
-## ALX - SE Programme
+# Gabriel Jacob
+# Pointers, Arrays, and Strings manupulation
+# ALX - SE Programme
